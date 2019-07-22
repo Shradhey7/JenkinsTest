@@ -1,0 +1,12 @@
+ Volume in drive F has no label.
+ Volume Serial Number is 0889-23B6
+
+ Directory of F:\Java_Practice
+
+22-07-2019  18:18    <DIR>          .
+22-07-2019  18:18    <DIR>          ..
+22-07-2019  18:17               486 newTest.class
+22-07-2019  17:54               210 newTest.java
+22-07-2019  18:18                 0 tester2.txt
+               3 File(s)            696 bytes
+               2 Dir(s)  284,984,242,176 bytes free
